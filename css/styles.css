@@ -30,7 +30,6 @@ body, html {
 .container {
 	position: relative;
 	margin: 100px auto;
-	width: 100%;
 	width: 1064px;
 	height: 1064px;
 	background:url(../images/background.jpg);
